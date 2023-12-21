@@ -22,14 +22,23 @@ hoặc nhập tay ( bằng cách bấm vào ô sudoku hoặc phím điều hư�
 tích 1 trong 2 ô Backtrack hoặc HeuristicBT (Heuristic + Backtrack) để chọn giải thuật
 
 
+![image](https://github.com/kei312/ttnt/assets/137863560/6c5db03b-3b65-45ae-9278-c2ab3a2f8259)
+
+
+![image](https://github.com/kei312/ttnt/assets/137863560/087e1f6c-079a-4c6a-8e3b-91a2056456d3)
+
+
+
 Solve để giải
 
-![image](https://github.com/kei312/ttnt/assets/137863560/3985c5ec-9204-4a33-9fee-aeed48ba59f9)
+![image](https://github.com/kei312/ttnt/assets/137863560/8f0a3440-f357-42e5-8f9d-51e7f299650d)
+
 
 
 Sau khi giải, một ô thông báo hiện ra với nội dung chứa số thao tác cơ bản và thời gian chạy của thuật toán
 
-![image](https://github.com/kei312/ttnt/assets/137863560/89b2574a-691b-4c39-a511-a65a169ada2d)
+
+![image](https://github.com/kei312/ttnt/assets/137863560/5845815a-0741-4381-8b6d-3f6fc6254608)
 
 
 
