@@ -24,8 +24,13 @@ tích 1 trong 2 ô Backtrack hoặc HeuristicBT (Heuristic + Backtrack) để ch
 
 Solve để giải
 
+![image](https://github.com/kei312/ttnt/assets/137863560/3985c5ec-9204-4a33-9fee-aeed48ba59f9)
+
 
 Sau khi giải, một ô thông báo hiện ra với nội dung chứa số thao tác cơ bản và thời gian chạy của thuật toán
+
+![image](https://github.com/kei312/ttnt/assets/137863560/89b2574a-691b-4c39-a511-a65a169ada2d)
+
 
 
 Bấm Ok hoặc dấu X để hiển thị lời giải
