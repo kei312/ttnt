@@ -1,0 +1,61 @@
+C:\Users\Admin\source\repos\SDK\SDK\bin\Debug\SDK.exe.config
+C:\Users\Admin\source\repos\SDK\SDK\bin\Debug\SDK.exe
+C:\Users\Admin\source\repos\SDK\SDK\bin\Debug\SDK.pdb
+C:\Users\Admin\source\repos\SDK\SDK\obj\Debug\SDK.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SDK\SDK\obj\Debug\SDK.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\SDK\SDK\obj\Debug\SDK.Form1.resources
+C:\Users\Admin\source\repos\SDK\SDK\obj\Debug\SDK.Properties.Resources.resources
+C:\Users\Admin\source\repos\SDK\SDK\obj\Debug\SDK.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SDK\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SDK\SDK\obj\Debug\SDK.exe
+C:\Users\Admin\source\repos\SDK\SDK\obj\Debug\SDK.pdb
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\bin\Debug\SDK.exe.config
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\bin\Debug\SDK.exe
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\bin\Debug\SDK.pdb
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\obj\Debug\SDK.csproj.AssemblyReference.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\obj\Debug\SDK.Form1.resources
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\obj\Debug\SDK.Properties.Resources.resources
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\obj\Debug\SDK.csproj.GenerateResource.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\obj\Debug\SDK.exe
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\obj\Debug\SDK.pdb
+C:\Users\DuyThanh\Documents\SDK\SDK\bin\Debug\SDK.exe.config
+C:\Users\DuyThanh\Documents\SDK\SDK\bin\Debug\SDK.exe
+C:\Users\DuyThanh\Documents\SDK\SDK\bin\Debug\SDK.pdb
+C:\Users\DuyThanh\Documents\SDK\SDK\obj\Debug\SDK.csproj.AssemblyReference.cache
+C:\Users\DuyThanh\Documents\SDK\SDK\obj\Debug\SDK.Form1.resources
+C:\Users\DuyThanh\Documents\SDK\SDK\obj\Debug\SDK.Properties.Resources.resources
+C:\Users\DuyThanh\Documents\SDK\SDK\obj\Debug\SDK.csproj.GenerateResource.cache
+C:\Users\DuyThanh\Documents\SDK\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Users\DuyThanh\Documents\SDK\SDK\obj\Debug\SDK.exe
+C:\Users\DuyThanh\Documents\SDK\SDK\obj\Debug\SDK.pdb
+C:\Users\admin\Downloads\SDK\SDK\SDK\bin\Debug\SDK.exe.config
+C:\Users\admin\Downloads\SDK\SDK\SDK\bin\Debug\SDK.exe
+C:\Users\admin\Downloads\SDK\SDK\SDK\bin\Debug\SDK.pdb
+C:\Users\admin\Downloads\SDK\SDK\SDK\obj\Debug\SDK.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\SDK\SDK\SDK\obj\Debug\SDK.Properties.Resources.resources
+C:\Users\admin\Downloads\SDK\SDK\SDK\obj\Debug\SDK.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\SDK\SDK\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\SDK\SDK\SDK\obj\Debug\SDK.exe
+C:\Users\admin\Downloads\SDK\SDK\SDK\obj\Debug\SDK.pdb
+C:\Users\admin\Downloads\SDK\SDK\SDK\obj\Debug\SDK.Form1.resources
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành\SDK\SDK\bin\Debug\SDK.exe.config
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành\SDK\SDK\bin\Debug\SDK.exe
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành\SDK\SDK\bin\Debug\SDK.pdb
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành\SDK\SDK\obj\Debug\SDK.csproj.AssemblyReference.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành\SDK\SDK\obj\Debug\SDK.Form1.resources
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành\SDK\SDK\obj\Debug\SDK.Properties.Resources.resources
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành\SDK\SDK\obj\Debug\SDK.csproj.GenerateResource.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành\SDK\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành\SDK\SDK\obj\Debug\SDK.exe
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành\SDK\SDK\obj\Debug\SDK.pdb
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\bin\Debug\SDK.exe.config
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\bin\Debug\SDK.exe
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\bin\Debug\SDK.pdb
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\obj\Debug\SDK.csproj.AssemblyReference.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\obj\Debug\SDK.Form1.resources
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\obj\Debug\SDK.Properties.Resources.resources
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\obj\Debug\SDK.csproj.GenerateResource.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\obj\Debug\SDK.exe
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\obj\Debug\SDK.pdb

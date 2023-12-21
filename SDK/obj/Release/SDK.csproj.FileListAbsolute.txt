@@ -1,0 +1,20 @@
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\bin\Release\SDK.exe.config
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\bin\Release\SDK.exe
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\bin\Release\SDK.pdb
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\obj\Release\SDK.csproj.AssemblyReference.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\obj\Release\SDK.Form1.resources
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\obj\Release\SDK.Properties.Resources.resources
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\obj\Release\SDK.csproj.GenerateResource.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\obj\Release\SDK.csproj.CoreCompileInputs.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\obj\Release\SDK.exe
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK\SDK\obj\Release\SDK.pdb
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\bin\Release\SDK.exe.config
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\bin\Release\SDK.exe
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\bin\Release\SDK.pdb
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\obj\Release\SDK.csproj.AssemblyReference.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\obj\Release\SDK.Form1.resources
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\obj\Release\SDK.Properties.Resources.resources
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\obj\Release\SDK.csproj.GenerateResource.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\obj\Release\SDK.csproj.CoreCompileInputs.cache
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\obj\Release\SDK.exe
+C:\Users\admin\Dropbox\PC\Documents\AI 2023 2024 k1\SDK a thành(sử dụng chính)\SDK\SDK\obj\Release\SDK.pdb
