@@ -1,4 +1,4 @@
-SKD.sln đùng trên Visual Studio
+SKD.sln dùng trên Visual Studio
 
 
 SKD.exe là app
