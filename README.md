@@ -28,6 +28,9 @@ Solve để giải
 Sau khi giải, một ô thông báo hiện ra với nội dung chứa số thao tác cơ bản và thời gian chạy của thuật toán
 
 
+Bấm Ok hoặc dấu X để hiển thị lời giải
+
+
 New để xóa toàn bộ nội dung
 
 
